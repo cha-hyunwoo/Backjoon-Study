@@ -1,4 +1,4 @@
-package q2439;
+package bronze.q2439;
 import java.util.Scanner;
 
 public class Main {

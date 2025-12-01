@@ -1,16 +1,14 @@
-package q2739;
+package basic.q2741;
 import java.util.Scanner;
-
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
-		int a=sc.nextInt();
-		for(int i=1;i<10;i++) {
-			System.out.println(a+" * "+i+" = "+a*i);
+		int n=sc.nextInt();
+		for(int i=1;i<=n;i++) {
+			System.out.println(i);
 		}
-	
 	}
 
 }

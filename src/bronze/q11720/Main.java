@@ -1,4 +1,4 @@
-package q11720;
+package bronze.q11720;
 import java.util.Scanner;
 
 public class Main {
