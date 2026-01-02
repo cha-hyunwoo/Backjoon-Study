@@ -3,10 +3,16 @@
 [![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=ckgusdn10&theme=warm)](https://solved.ac/ckgusdn10)  
 ## 🛠 Tech Stack (Languages)  
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)  
-# 📘 Algorithm Study Strategy
+## 📘 Algorithm Study Strategy
 
 이 리포지토리는 백준 온라인 저지(BOJ) 문제 풀이 코드를 저장하는 공간입니다.
 현재는 **BaekjoonHub**를 이용하여 문제를 풀면 자동으로 리포지토리에 푸시되도록 연동되어 있습니다.
+
+## 🔍 문제 풀이 및 트러블 슈팅 (Troubleshooting)
+
+>단순히 문제를 푸는 것에 그치지 않고, 시행착오와 최적화 과정을 기록합니다.
+- **Troubleshooting**: 자동 업로드된 README를 수정하여 `add troubleshooting` 커밋과 함께 풀이 전략을 기록 중입니다.
+- **Focus**: 시간 복잡도 개선, 자료구조 선택 이유, 발생했던 런타임 에러 해결 과정을 중점적으로 다룹니다.
 
 ## 📂 폴더 구조 설명
 
