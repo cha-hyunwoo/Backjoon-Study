@@ -11,7 +11,7 @@
 ## 🔍 문제 풀이 및 트러블 슈팅 (Troubleshooting)
 
 >단순히 문제를 푸는 것에 그치지 않고, 시행착오와 최적화 과정을 기록합니다.
-- **Troubleshooting**: 자동 업로드된 README를 수정하여 `add troubleshooting` 커밋과 함께 풀이 전략을 기록 중입니다.
+- **Troubleshooting**: 자동 업로드된 README를 수정하여 문제 해결 부분을 추가해서 `add troubleshooting` 커밋과 함께 풀이 전략을 기록 중입니다.
 - **Focus**: 시간 복잡도 개선, 자료구조 선택 이유, 발생했던 런타임 에러 해결 과정을 중점적으로 다룹니다.
 
 ## 📂 폴더 구조 설명
