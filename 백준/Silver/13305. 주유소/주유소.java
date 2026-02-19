@@ -12,17 +12,17 @@ public class Main {
         int n=Integer.parseInt(br.readLine()); // 도시의 개수
 
         StringTokenizer st=new StringTokenizer(br.readLine());
-        int []length=new int[n-1]; // 도로 사이의 길이
+        long []length=new long[n-1]; // 도로 사이의 길이
         for(int i=0;i<n-1;i++){
             length[i]=Integer.parseInt(st.nextToken());
         }
         st=new StringTokenizer(br.readLine());
-        int []cost=new int[n-1];
+        long []cost=new long[n-1];
         for(int i=0;i<n-1;i++){
             cost[i]=Integer.parseInt(st.nextToken());
         }
-        int min=cost[0]*length[0];
-        int lowCost=cost[0];
+        long min=cost[0]*length[0];
+        long lowCost=cost[0];
         for(int i=1;i<n-1;i++){
             if(lowCost>cost[i]){
                 lowCost=cost[i];
